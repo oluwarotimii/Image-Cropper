@@ -1,6 +1,6 @@
 Here is the full markdown you can copy and paste:
 
-```markdown
+
 # Image Cropping Script
 
 This project is a Node.js script that uses the [Jimp] image processing library to crop images. The script crops images by randomly reducing their width and height, then saves the cropped images to a specified directory.
